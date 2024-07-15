@@ -2,4 +2,5 @@ The following are a list of 'deep-links' that can be possibly used for an FRP By
 - <a href="intent://com.android.settings">Settings</a>
 - <a href="intent://com.google.android.youtube"> Youtube </a>
 - [settings](intent://com.android.settings)
+- [addrom](https://addrom.com/bypass)
   
